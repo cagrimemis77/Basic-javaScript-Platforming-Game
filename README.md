@@ -17,3 +17,16 @@ up arrow; jumping.
 up arrow (hold); extra jump.
 
 This Game İtch.io link: https://evo-games.itch.io/javascript-platforming-game
+
+
+How to Create Own Levels?
+
+Open the app.js file.
+Find Levels variable and [level design].
+
+@ = Player
+x = Wall
+v = magma(liquid)
+! = magma
+| = magma
+o = coin
