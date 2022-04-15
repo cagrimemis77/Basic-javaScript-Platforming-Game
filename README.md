@@ -10,3 +10,9 @@ Game owner: https://codepen.io/arshdkhn1
 
 Orginal Game Link: https://codepen.io/arshdkhn1/pen/QKZvJv
 
+*How To Play*
+
+left, right arrow; movement.
+up arrow; jumping.
+up arrow (hold); extra jump.
+
